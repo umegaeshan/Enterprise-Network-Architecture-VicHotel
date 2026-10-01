@@ -1,6 +1,6 @@
 # Enterprise Network Architecture - Vic Modern Hotel
 
-![Network Topology](Screenshot_2026-10-02 000829.png)
+![Network Topology](Screenshot_2026-10-02_000829.png)
 
 ## Overview
 This repository contains a comprehensive 3-floor enterprise network architecture designed and implemented using Cisco Packet Tracer. The project simulates a real-world corporate hotel environment, integrating routing, switching, wireless connectivity, and network security. 
